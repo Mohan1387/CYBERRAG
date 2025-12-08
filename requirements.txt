@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+ollama
+weaviate-client
+pypdf
+google-generativeai
