@@ -114,4 +114,6 @@ CyberRAG/
 
 ## 🛡️ License
 
-This project is for educational and research purposes.
+This project is licensed under the Apache License 2.0.  
+See the LICENSE file for details.
+© 2025 Mohan Kumar Manivannan
