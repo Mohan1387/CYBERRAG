@@ -18,7 +18,6 @@ CyberRAG is a Retrieval-Augmented Generation (RAG) application designed to provi
 3.  **Retrieval:** User queries are embedded and matched against the database using vector similarity search.
 4.  **Generation:** Retrieved context is sent to `Google Gemini`, which acts as a Senior Threat Intelligence Analyst to answer the user's question.
 
-## Architecture
 <img width="875" height="643" alt="Architecture" src="https://github.com/user-attachments/assets/3b8d7d5c-549e-4d1c-b9e3-fcc165bac8b0" />
 
 ## 📋 Prerequisites
