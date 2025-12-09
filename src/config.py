@@ -17,7 +17,7 @@ load_dotenv()
 OLLAMA_HOST = os.getenv("OLLAMA_HOST", "http://localhost:11434")
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "embeddinggemma")
 SUMMARIZE_MODEL = os.getenv("SUMMARIZE_MODEL", "gemini-2.5-flash")
-GEMMA_API_KEY = os.getenv("GEMMA_API_KEY", "AIzaSyC35SRtB1xpuMDms-gkTyTZXpGx-Q4FFY4")
+GEMMA_API_KEY = os.getenv("GEMMA_API_KEY", "googleapi")
 
 # ==========================================
 # Vector Database Configuration (Weaviate)
